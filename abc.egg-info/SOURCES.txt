@@ -1,0 +1,7 @@
+setup.py
+abc.egg-info/PKG-INFO
+abc.egg-info/SOURCES.txt
+abc.egg-info/dependency_links.txt
+abc.egg-info/not-zip-safe
+abc.egg-info/top_level.txt
+my_lib/__innit__.py
